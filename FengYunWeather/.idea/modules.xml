@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FengYunWeather.iml" filepath="$PROJECT_DIR$/.idea/modules/FengYunWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FengYunWeather.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FengYunWeather.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bg/FengYunWeather.bg.iml" filepath="$PROJECT_DIR$/.idea/modules/bg/FengYunWeather.bg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/FengYunWeather.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/FengYunWeather.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plugin/FengYunWeather.plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/plugin/FengYunWeather.plugin.iml" />
+    </modules>
+  </component>
+</project>
